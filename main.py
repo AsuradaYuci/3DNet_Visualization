@@ -17,16 +17,16 @@ from utils import *
 from action_feature_visualization import Visualization
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  #close the warning
-os.environ["CUDA_VISIBLE_DEVICES"]='2'
+os.environ["CUDA_VISIBLE_DEVICES"]='0'
 
 def parse_args():
     parser = argparse.ArgumentParser(description='mfnet-base-parser')
     parser.add_argument("--num_classes", type=int, default=101)
     parser.add_argument("--model_weights", type=str, default='pretrained_model/MFNet3D_UCF-101_Split-1_96.3.pth')
-    parser.add_argument("--video", type=str, default='test_videos/v_ApplyEyeMakeup_g01_c01.avi')
+    parser.add_argument("--video", type=str, default='test_videos/v_HeadMassage_g02_c05.avi')
     parser.add_argument("--frames_num", type=int, default=16, help = "the frames num for the network input")
-    parser.add_argument("--label", type=int, default=0)
-    parser.add_argument("--clip_steps", type=int, default=16)
+    parser.add_argument("--label", type=int, default=38)
+    parser.add_argument("--clip_steps", type=int, default=8)
     parser.add_argument("--output_dir", type=str, default="output")
     return parser.parse_args()
 args = parse_args()
@@ -54,7 +54,7 @@ def main():
 
     length, width, height = video_frame_count(args.video)
     if length < args.frames_num:
-        print("the video's frame num is {}, shorter than {}, will repeat the last frame".format(length, self.frames_num))
+        print("the video's frame num is {}, shorter than {}, will repeat the last frame".format(length, args.frames_num))
     cap = cv2.VideoCapture(args.video)
     #q = queue.Queue(self.frames_num)
     frames = list()
@@ -69,7 +69,7 @@ def main():
     while len(frames) < args.frames_num:
         frames.append(frames[length - 1])
     mask_imgs = list()
-    for i in range(length//args.clip_steps):
+    for i in range(int(length/args.clip_steps) -1):
         if i < length - args.frames_num:
             reg_imgs = frames[i*args.clip_steps:i*args.clip_steps + args.frames_num]
         else:
@@ -79,9 +79,9 @@ def main():
         heat_map, focus_map = visulaize.gen_heatmap(cam, RGB_vid)
         mask_img = visulaize.gen_mask_img(RGB_vid[0][0], heat_map, heat_map, focus_map)
         mask_imgs.append(mask_img)
-        print("precoss video clips: {}/{}, wait a moment".format(i+1, length//args.clip_steps))
+        print("precoss video clips: {}/{}, wait a moment".format(i+1, int(length/args.clip_steps)-1))
     saved_video_path = save_as_video(args.output_dir, mask_imgs, args.label)
-    saved_image_path = save_as_imgs(args.output_dir, mask_imgs, length//args.clip_steps, args.label)
+    saved_image_path = save_as_imgs(args.output_dir, mask_imgs, int(length/args.clip_steps)-1, args.label)
     #visualization(saved_video_path)
 
 
