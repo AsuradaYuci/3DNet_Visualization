@@ -1,8 +1,13 @@
 # 3D Net Visualization Tools
-**This project show attention map in video and frames.**
+**For an input video, this project will show attention map in video and frames. **
 
-![gif](https://github.com/FingerRec/3DNet_Visualization/raw/master/output/output.gif)
-![image](https://github.com/FingerRec/3DNet_Visualization/raw/master/output/imgs_000.png)
+**saved video**
+
+![gif](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/output.gif)
+
+**saved img**
+
+![image](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/img_1.png)
 
 ## Require:
 pytorch
