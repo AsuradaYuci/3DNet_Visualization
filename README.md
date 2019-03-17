@@ -5,14 +5,18 @@
 **For an input video, this project will show attention map in video and frames.**
 
 ### saved video
+
 **Video with Clip_step 1**
+
 ![gif](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/step_1.gif)
 
 **Video with Clip_step 8**
+
 ![gif_2](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/step_8.gif)
 
 
 **Video withClip_step 16**
+
 ![gif_3](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/step_16.gif)
 
 

@@ -166,11 +166,8 @@
       <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/tensorflow_undacity.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/softmax_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/output.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/v_BaseballPitch_g03_c01.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/step1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/step_1.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VGGNetWithTensorflow" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -230,8 +227,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <first_editor relative-caret-position="304">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -399,12 +396,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552747056958</updated>
-      <workItem from="1552747058373" duration="33027000" />
+      <workItem from="1552747058373" duration="33151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33027000" />
+    <option name="totallyTimeSpent" value="33151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,6 +414,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="214" y="35" width="1833" height="944" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958123" />
@@ -584,8 +582,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <first_editor relative-caret-position="304">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
