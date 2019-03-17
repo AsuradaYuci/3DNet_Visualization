@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f93082-6df7-4052-a341-3a3ee9678bfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Action_Video_Visualization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action_feature_visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mfnet_3d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/034.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/044.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/047.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/050.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/051.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/052.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/053.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/056.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/058.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/059.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/061.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/070.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/071.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/073.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/074.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/076.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/077.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/081.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/082.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/085.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/086.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/089.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/091.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/092.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/093.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/097.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/098.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/099.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/video/label_0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/classInd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/output.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000246.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000252.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/v_ApplyEyeMakeup_g01_c01.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/v_BaseballPitch_g03_c01.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_videos/v_HeadMassage_g02_c05.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book_Tensorflow_In_Action" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/CorssinCodeExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/Encryption and Decryption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/FindRevealMovie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/SendEmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/jiebaExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/wiki_rotate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/.idea/FingerVeinRecognition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/Cnn_TensorBoard_Picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/FingerVeinClassification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/FingerVeinFeatureCnnAndPooling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/t10k-images.idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/t10k-labels.idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/train-images.idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/MNIST_data/train-labels.idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/TensorBoard_Picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/TrainFeatures_H50_I300.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/fingerVeinImageClassification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/imageCnnAndPooling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/imageTestData.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/imageTrainData.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/log/train/events.out.tfevents.1493203421.Awiny.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/softMaxClassification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/testData.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/testLabel.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/trainData.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FingerVeinRecognition/trainLabel.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearninginAction/.idea/MachineLearninginAction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearninginAction/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearninginAction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearninginAction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearninginAction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearninginAction/NumpyTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/.idea/Opencv+PythonMachineLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/kMeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/kMeans_Color_Clustering/kMeans_Color_Clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/kMeans_Color_Clustering/readme.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opencv+PythonMachineLearning/kMeans_Color_Clustering/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/.idea/TensorflowStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/02_linear_svm的副本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TensorflowStudy/02_using_multiple_devices的副本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mnist-tensorflow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagan/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagan/.idea/pagan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagan/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagan/pagan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/autogrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/cifar10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/neuralnetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/softmax_derivate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytorchStudy/trnsfer_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/.pydevproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/.pylintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/data/pairs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/align_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/align_dataset_mtcnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/align_dlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/det1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/det2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/det3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/align/detect_face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/calculate_filtering_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/decode_msceleb_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/download_and_extract_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/download_vgg_face_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/facenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/freeze_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/lfw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/models/inception_resnet_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/models/inception_resnet_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/models/squeezenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/train_softmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/train_tripletloss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/src/validate_on_lfw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/test/batch_norm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/test/center_loss_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/test/decov_loss_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/test/restore_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/test/train_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/test/triplet_loss_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/align_dataset.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/batch_represent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/cacd2000_split_identities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/dataset_read_speed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/deepdream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/detect_face_v1.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/detect_face_v2.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/funnel_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/invariance_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/mnist_center_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/mnist_noise_labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/mtcnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/mtcnn_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/mtcnn_test_pnet_dbg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/nn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/nn3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/nn4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/nn4_small2_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/pilatus800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/random_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/rename_casia_directories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/seed_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/select_triplets_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/test_align.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/test_invariance_on_lfw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/vggface16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/vggverydeep19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/visualize_vgg_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/tmp/visualize_vggface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_facenet-master/util/plot_learning_curves.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/tensorflow_undacity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/softmax_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VGGNetWithTensorflow" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Action_Video_Visualization$i3d_visualization.coverage" NAME="main Coverage Results" MODIFIED="1552814074252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1525">
+              <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="e#320#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+              <folding>
+                <element signature="e#344#359#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="209">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3d_net_visualization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/i3d.py" />
+        <option value="$PROJECT_DIR$/i3d_visualization.py" />
+        <option value="$PROJECT_DIR$/3dnet_recognition.py" />
+        <option value="$PROJECT_DIR$/3d_net_visualization.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/action_recognition.py" />
+        <option value="$PROJECT_DIR$/action_feature_visualization.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/demo.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="385" />
+    <option name="y" value="23" />
+    <option name="width" value="1833" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/net" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Action_Video_Visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://wjp@172.18.166.125:22/home/wjp/anaconda3/envs/pytorch0.4/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/home/wjp/Desktop/wjp/Code/Visualization/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f93082-6df7-4052-a341-3a3ee9678bfd" name="Default Changelist" comment="" />
+      <created>1552747056958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552747056958</updated>
+      <workItem from="1552747058373" duration="31082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31082000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="385" y="23" width="1833" height="944" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958123" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.3298122" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298122" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298122" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" weight="0.3271915" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3d_net_visualization.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="pred_weights" />
+        <watch expression="reg_imgs[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/i3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="e#319#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heat_tubes_mfnet_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="65" selection-start-line="65" selection-end-line="76" selection-end-column="35" />
+          <folding>
+            <element signature="e#93#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heat_tubes_Keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="110" column="28" lean-forward="true" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/mfnet_3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#334#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding>
+            <element signature="e#344#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3d_net_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/imgs/000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#320#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
