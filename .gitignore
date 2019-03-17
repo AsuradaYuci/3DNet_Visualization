@@ -1,4 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea
 /3d_net_visualization.py
 /pretrained_model/MFNet3D_UCF-101_Split-1_96.3.pth
 /output/ucf101_test_1/
