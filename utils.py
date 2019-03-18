@@ -95,3 +95,12 @@ def load_images(frame_dir, selected_frames):
     for t, m, s in zip(torch_imgs, mean_3d, std_3d):
         t.sub_(m).div_(s)
     return np.expand_dims(orig_imgs, 0), torch_imgs.unsqueeze(0)
+
+def put_text(img, text, position, scale_factor=0.4):
+    t_w, t_h = cv2.getTextSize(
+        text, cv2.FONT_HERSHEY_TRIPLEX, scale_factor, thickness=1)[0]
+    H, W, _ = img.shape
+    position = (int(W * position[1] - t_w * 0.5), int(H * position[0] - t_h * 0.5))
+    params = (position, cv2.FONT_HERSHEY_TRIPLEX, scale_factor,
+            (255,255,255))
+    cv2.putText(img, text, *params)

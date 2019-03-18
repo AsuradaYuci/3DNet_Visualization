@@ -40,14 +40,14 @@ class Visualization(object):
             # Create frame with heatmap
             heatframe = heatmap // 2 + frame[0][i] // 2
             #   Create frame with focus map in the alpha channel
-            focusframe = frame[0][i]
-            focusframe = cv2.cvtColor(np.uint8(focusframe), cv2.COLOR_BGR2BGRA)
-            focusframe[:, :, 3] = focusmap
+            #focusframe = frame[0][i]
+            #focusframe = cv2.cvtColor(np.uint8(focusframe), cv2.COLOR_BGR2BGRA)
+            #focusframe[:, :, 3] = focusmap
 
-        return heatframe, focusframe
+        return heatframe
 
     @staticmethod
-    def gen_mask_img(origin_img, activation_map, heat_map, focus_map):
+    def gen_mask_img(origin_img,  heat_map, pred_top3, prob_top3, label):
         """
         a img will be divide into four parts, origin images, activation_map, heatmap, focusmap
         and add text into them
@@ -61,9 +61,18 @@ class Visualization(object):
         #focus_crop_img = np.zeros([224, 224, 3])
         #for i in range(3):
         #    focus_crop_img = focus_map[:,:,i] * focus_map[:, :, 3]
-        focus_crop_img = cv2.cvtColor(focus_map, cv2.COLOR_RGBA2RGB)
-        focus_map = np.resize(focus_crop_img, [224,224,3])
-        img0 = np.concatenate((cropped_img, activation_map), axis=1)
-        img1 = np.concatenate((heat_map, focus_map), axis=1)
+        #focus_crop_img = cv2.cvtColor(focus_map, cv2.COLOR_RGBA2RGB)
+        #focus_map = np.resize(focus_crop_img, [224,224,3])
+        label_name = 'real label: ' + str(label)
+        put_text(cropped_img, label_name, (0.1, 0.5))
+        list_file = 'data/kinetics_rgb_train_list.txt'
+        classes = [x.strip() for x in open('resources/classInd.txt')]
+        for i in range(3):
+            label_text = "  Top {}: label: {}".format(i+1, classes[pred_top3[i]])
+            put_text(heat_map[i], label_text, (0.1, 0.5))
+            prob_text = "prob: {}".format(str(prob_top3[i])[:7])
+            put_text(heat_map[i], prob_text, (0.2, 0.5))
+        img0 = np.concatenate((cropped_img, heat_map[0]), axis=1)
+        img1 = np.concatenate((heat_map[1], heat_map[2]), axis=1)
         maskimg = np.concatenate((img0, img1), axis=0)
         return maskimg

@@ -166,8 +166,145 @@
       <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/tensorflow_undacity.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tensorflow_undacity/softmax_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/step1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/step_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action_feature_visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/action_feature_visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/action_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/000.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/001.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/002.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/003.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/004.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/005.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/006.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/007.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/008.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/009.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/009.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/010.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/011.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/012.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/012.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/013.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/013.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/014.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/014.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/015.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/015.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/016.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/016.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/017.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/017.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/018.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/018.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/019.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/019.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/020.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/020.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/021.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/021.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/022.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/022.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/023.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/023.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/024.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/025.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/025.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/026.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/026.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/027.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/027.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/028.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/028.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/029.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/029.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/030.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/030.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/031.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/031.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/032.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/032.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/033.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/033.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/034.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/034.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/035.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/035.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/036.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/036.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/037.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/037.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/038.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/038.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/039.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/039.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/040.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/040.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/041.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/041.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/042.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/042.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/043.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/043.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/044.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/044.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/045.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/045.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/046.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/046.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/047.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/047.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/048.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/048.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/049.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/049.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/050.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/050.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/051.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/051.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/052.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/052.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/053.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/053.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/054.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/054.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/055.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/055.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/056.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/056.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/057.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/057.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/058.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/058.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/059.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/059.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/060.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/060.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/061.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/061.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/062.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/062.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/063.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/063.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/064.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/064.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/065.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/065.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/066.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/066.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/067.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/067.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/068.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/068.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/069.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/069.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/070.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/070.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/071.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/071.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/072.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/072.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/073.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/073.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/074.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/074.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/075.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/075.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/076.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/076.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/077.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/077.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/078.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/078.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/079.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/079.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/080.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/080.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/081.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/081.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/082.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/082.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/083.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/083.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/084.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/084.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/085.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/085.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/086.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/086.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/087.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/087.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/088.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/088.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/089.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/089.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/090.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/090.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/091.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/091.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/092.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/092.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/093.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/093.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/094.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/094.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/095.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/095.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/096.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/096.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/097.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/097.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/098.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/098.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/099.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/099.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/100.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/101.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/101.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/102.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/102.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/103.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/103.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/104.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/104.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/105.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/105.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/106.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/106.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/107.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/107.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/108.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/108.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/109.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/109.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/110.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/110.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/111.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/111.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/112.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/112.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/113.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/113.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/114.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/115.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/115.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/116.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/116.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/117.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/117.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/118.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/118.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/119.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/119.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/120.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/121.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/121.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/122.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/122.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/123.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/123.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/124.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/124.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/125.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/125.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/126.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/126.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/127.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/127.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/imgs/128.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/imgs/128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/video/label_38.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/output/video/label_38.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/step_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/step_16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VGGNetWithTensorflow" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,15 +314,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Action_Video_Visualization$main.coverage" NAME="main Coverage Results" MODIFIED="1552918362060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Action_Video_Visualization$i3d_visualization.coverage" NAME="main Coverage Results" MODIFIED="1552818723200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1525">
-              <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+            <state relative-caret-position="263">
+              <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -202,8 +340,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            <state relative-caret-position="366">
+              <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
               <folding>
                 <element signature="e#320#335#0" expanded="true" />
               </folding>
@@ -214,8 +352,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+            <state relative-caret-position="268">
+              <caret line="70" column="43" selection-start-line="70" selection-start-column="43" selection-end-line="70" selection-end-column="43" />
               <folding>
                 <element signature="e#344#359#0" expanded="true" />
               </folding>
@@ -227,8 +365,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="355">
+                <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -236,19 +374,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3d_net_visualization.py">
+        <entry file="file://$PROJECT_DIR$/action_recognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="55">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#334#349#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/resources/classInd.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="449">
+              <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -272,19 +413,19 @@
         <option value="$PROJECT_DIR$/i3d_visualization.py" />
         <option value="$PROJECT_DIR$/3dnet_recognition.py" />
         <option value="$PROJECT_DIR$/3d_net_visualization.py" />
-        <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/action_recognition.py" />
-        <option value="$PROJECT_DIR$/action_feature_visualization.py" />
         <option value="$PROJECT_DIR$/demo.sh" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/action_recognition.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/action_feature_visualization.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="214" />
-    <option name="y" value="35" />
+    <option name="x" value="422" />
+    <option name="y" value="23" />
     <option name="width" value="1833" />
     <option name="height" value="944" />
   </component>
@@ -296,23 +437,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
@@ -328,7 +459,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +469,13 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/test_videos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/output/video" />
       <recent name="$PROJECT_DIR$/net" />
     </key>
   </component>
@@ -356,6 +492,28 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Action_Video_Visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Action_Video_Visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,12 +554,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552747056958</updated>
-      <workItem from="1552747058373" duration="33151000" />
+      <workItem from="1552747058373" duration="33750000" />
+      <workItem from="1552910532195" duration="8675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33151000" />
+    <option name="totallyTimeSpent" value="42425000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,19 +572,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="214" y="35" width="1833" height="944" extended-state="0" />
+    <frame x="422" y="23" width="1833" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958123" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21384701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" weight="0.3298122" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298122" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298122" />
@@ -433,12 +585,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298122" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="SciView" weight="0.3271915" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3298122" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3298122" />
+      <window_info anchor="right" x="0" y="0" width="408" height="744" id="Documentation" sideWeight="0.50437826" side_tool="true" visible="true" weight="0.3271915" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.4956217" visible="true" weight="0.3271915" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,39 +622,10 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/i3d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
-          <folding>
-            <element signature="e#319#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heat_tubes_mfnet_pytorch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="65" selection-start-line="65" selection-end-line="76" selection-end-column="35" />
-          <folding>
-            <element signature="e#93#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heat_tubes_Keras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="110" column="28" lean-forward="true" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/i3d.py" />
+    <entry file="file://$PROJECT_DIR$/heat_tubes_mfnet_pytorch.py" />
+    <entry file="file://$PROJECT_DIR$/heat_tubes_Keras.py" />
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
     <entry file="file://$PROJECT_DIR$/net/mfnet_3d.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
@@ -502,56 +633,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/action_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding>
-            <element signature="e#334#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frames.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-          <folding>
-            <element signature="e#344#359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frames.py" />
     <entry file="file://$PROJECT_DIR$/3d_net_visualization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="2054">
           <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/imgs/000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -562,17 +648,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/classInd.txt">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/1984554075/2109671036/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="157">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#334#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="70" column="43" selection-start-line="70" selection-start-column="43" selection-end-line="70" selection-end-column="43" />
+          <folding>
+            <element signature="e#344#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/classInd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/imgs/000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        <state relative-caret-position="366">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
           <folding>
             <element signature="e#320#335#0" expanded="true" />
           </folding>
@@ -582,8 +712,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="355">
+            <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           </first_editor>
           <second_editor />
         </state>

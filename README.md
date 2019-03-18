@@ -6,13 +6,14 @@
 
 ### saved video
 
+Video can't be show here, there are some gif.
 **Video with Clip_step 1**
 
 ![gif](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/step_1.gif)
 
-**Video with Clip_step 8**
+**Video with Clip_step 4**
 
-![gif_2](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/step_8.gif)
+![gif_2](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/step_4.gif)
 
 
 **Video withClip_step 16**
@@ -25,10 +26,10 @@
 ![image](https://github.com/FingerRec/3DNet_Visualization/raw/master/resources/img_1.png)
 
 ## Require:
-pytorch
-opencv
-numpy
-skvideo
+- pytorch
+- opencv
+- numpy
+- skvideo
 
 ## Run:
 ### 1.download pretrained model

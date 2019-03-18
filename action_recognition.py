@@ -53,20 +53,28 @@ class ActionRecognition(object):
         pred = torch.argmax(prediction).item()
         return pred
 
-    def generate_cam(self, imgs, label):
+    def generate_cam(self, imgs):
         predictions, layerout = self.model(torch.tensor(imgs).cuda())  # 1x101
         layerout = torch.tensor(layerout[0].numpy().transpose(1, 2, 3, 0))  # 8x7x7x768
         pred_weights = self.model.module.classifier.weight.data.detach().cpu().numpy().transpose()  # 768 x 101
-        pred = torch.argmax(predictions).item()
-        cam = np.zeros(dtype=np.float32, shape=layerout.shape[0:3])
-        for i, w in enumerate(pred_weights[:, label]):
-            # Compute cam for every kernel
-            cam += w * layerout[:, :, :, i]  # 8x7x7
+        predictions = torch.nn.Softmax(dim=1)(predictions)
+        pred_top3 = predictions.detach().cpu().numpy().argsort()[0][::-1][:3]
+        probality_top3 = -np.sort(-predictions.detach().cpu().numpy())[0,0:3]
 
-        # Resize CAM to frame level
-        cam = zoom(cam, (2, 32, 32))  # output map is 8x7x7, so multiply to get to 16x224x224 (original image size)
+        #print(pred_top3)
+        #pred_top3 = torch.argmax(predictions).item()
+        cam_list = list()
+        for k in range(len(pred_top3)):
+            cam = np.zeros(dtype=np.float32, shape=layerout.shape[0:3])
+            for i, w in enumerate(pred_weights[:, pred_top3[k]]):
+                # Compute cam for every kernel
+                cam += w * layerout[:, :, :, i]  # 8x7x7
 
-        # normalize
-        cam -= np.min(cam)
-        cam /= np.max(cam) - np.min(cam)
-        return cam, pred
+            # Resize CAM to frame level
+            cam = zoom(cam, (2, 32, 32))  # output map is 8x7x7, so multiply to get to 16x224x224 (original image size)
+
+            # normalize
+            cam -= np.min(cam)
+            cam /= np.max(cam) - np.min(cam)
+            cam_list.append(cam)
+        return cam_list, pred_top3, probality_top3
