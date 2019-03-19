@@ -62,20 +62,23 @@ Tip: in main.py, if set clip_steps is 1, will generate a video the same length a
 
 ### 4.test own video
 
-the details in demo.sh as follow, change --video and --label accorading to your video, please refer to resources/classInd.txt for label information.
+the details in demo.sh as follow, change --video and --label accorading to your video, please refer to resources/classInd.txt for label information for UCF101 videos.
+
 ```bash
 python main.py --num_classes 101 \
+--classes_list resources/classInd.txt \
 --model_weights pretrained_model/MFNet3D_UCF-101_Split-1_96.3.pth \
 --video test_videos/v_ApplyEyeMakeup_g01_c01.avi \
 --frames_num 16 --label 0 --clip_steps 16 \
 --output_dir output
 ```
 
-Tip:UCF101 dataset is support now, for HMDB and Kinetics et al. Just download a pretrained model and change --num-classes
+Tip:UCF101 dataset is support now, for HMDB and Kinetics et al. Just download a pretrained model and change --classes_list
 
 ## To Do List
-- support s3d, i3d and c3d
-- visualize filters
+- [ ] support s3d, i3d and c3d
+- [ ] visualize filters
+- [ ] support multi fc layers or full convolution networks
 
 ## Acknowledgment
 This project is highly based on [SaliencyTubes](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) 

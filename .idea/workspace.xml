@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49f93082-6df7-4052-a341-3a3ee9678bfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/net/i3d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/s3d.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Book_Tensorflow_In_Action" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/CorssinCodeExercise.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CorssinCodeExercise/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -197,8 +199,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -240,8 +242,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="339">
-                <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <first_editor relative-caret-position="384">
+                <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -310,8 +312,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="133" />
-    <option name="y" value="23" />
+    <option name="x" value="248" />
+    <option name="y" value="33" />
     <option name="width" value="1833" />
     <option name="height" value="944" />
   </component>
@@ -330,21 +332,6 @@
             <path>
               <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -446,12 +433,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552747056958</updated>
       <workItem from="1552747058373" duration="33750000" />
-      <workItem from="1552910532195" duration="12467000" />
+      <workItem from="1552910532195" duration="12759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46217000" />
+    <option name="totallyTimeSpent" value="46509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,7 +450,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="23" width="1833" height="944" extended-state="0" />
+    <frame x="248" y="33" width="1833" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21384701" />
@@ -588,27 +575,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#344#359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/net/i3d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6348">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/net/s3d.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -622,18 +599,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.sh">
+    <entry file="file://$PROJECT_DIR$/net/i3d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="-6348">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#344#359#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="339">
-            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <first_editor relative-caret-position="384">
+            <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
