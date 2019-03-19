@@ -59,14 +59,15 @@ def save_as_video(output_dir, frames, label):
     print('The video result has been saved in {}.'.format(output_dir+'/video'))
     return output_dir + '/video'
 
-def save_as_imgs(output_dir, frames, frames_num, label):
+def save_as_imgs(output_dir, frames, frames_num, label, prefix='heatmap_'):
     #save imgs
-    if not os.path.exists(output_dir + '/imgs/'):
-        os.makedirs(output_dir + '/imgs/')
+    if not os.path.exists(output_dir + '/imgs/' + str(label)):
+        os.makedirs(output_dir + '/imgs/' + str(label))
     for i in range(frames_num):
-        cv2.imwrite(os.path.join(output_dir + '/imgs/', '{:03d}.png'.format(i)), frames[i])
+        cv2.imwrite(os.path.join(output_dir + '/imgs/' + str(label), prefix + '{:03d}.png'.format(i)), frames[i])
     print('These images has been saved in {}.'.format(output_dir + '/imgs'))
     return output_dir + '/imgs'
+
 
 def center_crop(data, tw=224, th=224):
     h, w, c = data.shape

@@ -25,8 +25,8 @@ def parse_args():
     parser.add_argument("--model_weights", type=str, default='pretrained_model/MFNet3D_UCF-101_Split-1_96.3.pth')
     parser.add_argument("--video", type=str, default='test_videos/v_Shotput_g05_c02.avi')
     parser.add_argument("--frames_num", type=int, default=16, help = "the frames num for the network input")
-    parser.add_argument("--label", type=int, default=78)
-    parser.add_argument("--clip_steps", type=int, default=1)
+    parser.add_argument("--label", type=int, default=79)
+    parser.add_argument("--clip_steps", type=int, default=16)
     parser.add_argument("--output_dir", type=str, default="output")
     return parser.parse_args()
 args = parse_args()
@@ -69,6 +69,7 @@ def main():
     while len(frames) < args.frames_num:
         frames.append(frames[length - 1])
     mask_imgs = list()
+    focus_imgs = list()
     count = 0
     for i in range(int(length/args.clip_steps) -1):
         if i < length - args.frames_num:
@@ -80,15 +81,18 @@ def main():
             break
         RGB_vid, vid = reg_net.img_process(reg_imgs, args.frames_num)
         cam_list, pred_top3, prob_top3 = reg_net.generate_cam(vid)
-        heat_map = list()
+        heat_maps = list()
         for j in range(len(cam_list)):
-            heat_map.append(visulaize.gen_heatmap(cam_list[j], RGB_vid))
-        mask_img = visulaize.gen_mask_img(RGB_vid[0][0], heat_map, pred_top3, prob_top3, args.label)
+            heat_map, focus_map = visulaize.gen_heatmap(cam_list[j], RGB_vid)
+            heat_maps.append(heat_map)
+            focus_imgs.append(focus_map) #BGRA space
+        mask_img = visulaize.gen_mask_img(RGB_vid[0][0], heat_maps, pred_top3, prob_top3, args.label)
         mask_imgs.append(mask_img)
         print("precoss video clips: {}/{}, wait a moment".format(i+1, int(length/args.clip_steps)-1))
         count += 1
     saved_video_path = save_as_video(args.output_dir, mask_imgs, args.label)
-    saved_image_path = save_as_imgs(args.output_dir, mask_imgs, count, args.label)
+    save_as_imgs(args.output_dir, mask_imgs, count, args.label, 'heatmap_')
+    save_as_imgs(args.output_dir, focus_imgs, count, args.label, 'focusmap_')
     #visualization(saved_video_path)
 
 

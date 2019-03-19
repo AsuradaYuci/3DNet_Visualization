@@ -40,11 +40,11 @@ class Visualization(object):
             # Create frame with heatmap
             heatframe = heatmap // 2 + frame[0][i] // 2
             #   Create frame with focus map in the alpha channel
-            #focusframe = frame[0][i]
-            #focusframe = cv2.cvtColor(np.uint8(focusframe), cv2.COLOR_BGR2BGRA)
-            #focusframe[:, :, 3] = focusmap
+            focusframe = frame[0][i]
+            focusframe = cv2.cvtColor(np.uint8(focusframe), cv2.COLOR_BGR2BGRA)
+            focusframe[:, :, 3] = focusmap
 
-        return heatframe
+        return heatframe, focusframe
 
     @staticmethod
     def gen_mask_img(origin_img,  heat_map, pred_top3, prob_top3, label):
@@ -63,10 +63,9 @@ class Visualization(object):
         #    focus_crop_img = focus_map[:,:,i] * focus_map[:, :, 3]
         #focus_crop_img = cv2.cvtColor(focus_map, cv2.COLOR_RGBA2RGB)
         #focus_map = np.resize(focus_crop_img, [224,224,3])
-        label_name = 'real label: ' + str(label)
-        put_text(cropped_img, label_name, (0.1, 0.5))
-        list_file = 'data/kinetics_rgb_train_list.txt'
         classes = [x.strip() for x in open('resources/classInd.txt')]
+        label_name = 'real label: ' + classes[label - 1]
+        put_text(cropped_img, label_name, (0.1, 0.5))
         for i in range(3):
             label_text = "  Top {}: label: {}".format(i+1, classes[pred_top3[i]])
             put_text(heat_map[i], label_text, (0.1, 0.5))
