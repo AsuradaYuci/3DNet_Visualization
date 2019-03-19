@@ -22,6 +22,7 @@ os.environ["CUDA_VISIBLE_DEVICES"]='0'
 def parse_args():
     parser = argparse.ArgumentParser(description='mfnet-base-parser')
     parser.add_argument("--num_classes", type=int, default=101)
+    parser.add_argument("--classes_list", type=str, default='resources/classInd.txt')
     parser.add_argument("--model_weights", type=str, default='pretrained_model/MFNet3D_UCF-101_Split-1_96.3.pth')
     parser.add_argument("--video", type=str, default='test_videos/v_Shotput_g05_c02.avi')
     parser.add_argument("--frames_num", type=int, default=16, help = "the frames num for the network input")
@@ -86,7 +87,7 @@ def main():
             heat_map, focus_map = visulaize.gen_heatmap(cam_list[j], RGB_vid)
             heat_maps.append(heat_map)
             focus_imgs.append(focus_map) #BGRA space
-        mask_img = visulaize.gen_mask_img(RGB_vid[0][0], heat_maps, pred_top3, prob_top3, args.label)
+        mask_img = visulaize.gen_mask_img(RGB_vid[0][0], heat_maps, pred_top3, prob_top3, args.label, args.classes_list)
         mask_imgs.append(mask_img)
         print("precoss video clips: {}/{}, wait a moment".format(i+1, int(length/args.clip_steps)-1))
         count += 1

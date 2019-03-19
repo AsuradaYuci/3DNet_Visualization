@@ -50,14 +50,31 @@ mkdir pretrained_model
 download pretrained MFNet on UCF101 from [google_drive](https://goo.gl/mML2gv) and put it into directory pretrained_model,
 which is from [MFNet](https://github.com/cypw/PyTorch-MFNet)
 
-### 3.run shell script
+### 3.run demo
+
 ```bash
 bash demo.sh
 ```
+
+The generate video and imgs will be put in dir output/imgs and output/video.
+
 Tip: in main.py, if set clip_steps is 1, will generate a video the same length as origin.
 
+### 4.test own video
+
+the details in demo.sh as follow, change --video and --label accorading to your video, please refer to resources/classInd.txt for label information.
+```bash
+python main.py --num_classes 101 \
+--model_weights pretrained_model/MFNet3D_UCF-101_Split-1_96.3.pth \
+--video test_videos/v_ApplyEyeMakeup_g01_c01.avi \
+--frames_num 16 --label 0 --clip_steps 16 \
+--output_dir output
+```
+
+Tip:UCF101 dataset is support now, for HMDB and Kinetics et al. Just download a pretrained model and change --num-classes
+
 ## To Do List
-- support i3d and c3d
+- support s3d, i3d and c3d
 - visualize filters
 
 ## Acknowledgment

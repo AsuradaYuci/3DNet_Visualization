@@ -169,551 +169,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action_feature_visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/action_feature_visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/demo.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/063.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/064.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/065.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/067.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/077.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/078.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/081.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/086.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/092.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/093.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/094.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/095.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/099.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/105.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/132.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/133.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/136.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/137.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/138.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/140.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/141.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/142.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/143.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/145.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/146.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/147.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/148.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/151.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/153.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/154.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/155.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/156.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/157.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/158.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/159.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/161.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/162.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/imgs/163.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000076.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000081.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000084.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000087.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000088.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000090.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000098.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_1/frame000122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000076.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000081.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000084.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000087.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000088.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000090.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000098.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000246.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000249.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/ucf101_test_2/frame000256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VGGNetWithTensorflow" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -723,7 +180,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Action_Video_Visualization$main.coverage" NAME="main Coverage Results" MODIFIED="1552962323427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Action_Video_Visualization$main.coverage" NAME="main Coverage Results" MODIFIED="1552963576338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Action_Video_Visualization$i3d_visualization.coverage" NAME="main Coverage Results" MODIFIED="1552818723200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -740,8 +197,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state relative-caret-position="114">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -749,8 +206,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
+            <state relative-caret-position="521">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#320#335#0" expanded="true" />
               </folding>
@@ -759,10 +216,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/net/i3d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6348">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            <state relative-caret-position="219">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="e#344#359#0" expanded="true" />
               </folding>
@@ -774,10 +240,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="317">
-                <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+              <first_editor relative-caret-position="339">
+                <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/net/s3d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -822,18 +297,20 @@
         <option value="$PROJECT_DIR$/i3d_visualization.py" />
         <option value="$PROJECT_DIR$/3dnet_recognition.py" />
         <option value="$PROJECT_DIR$/3d_net_visualization.py" />
-        <option value="$PROJECT_DIR$/demo.sh" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/action_recognition.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/action_feature_visualization.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/net/i3d.py" />
+        <option value="$PROJECT_DIR$/net/s3d.py" />
+        <option value="$PROJECT_DIR$/demo.sh" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="597" />
+    <option name="x" value="133" />
     <option name="y" value="23" />
     <option name="width" value="1833" />
     <option name="height" value="944" />
@@ -853,6 +330,21 @@
             <path>
               <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Action_Video_Visualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Action_Video_Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -954,12 +446,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552747056958</updated>
       <workItem from="1552747058373" duration="33750000" />
-      <workItem from="1552910532195" duration="11297000" />
+      <workItem from="1552910532195" duration="12467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45047000" />
+    <option name="totallyTimeSpent" value="46217000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -971,7 +463,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="23" width="1833" height="944" extended-state="0" />
+    <frame x="133" y="23" width="1833" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21384701" />
@@ -979,14 +471,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298122" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298122" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298122" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.3298122" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3298122" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -1025,13 +517,6 @@
     <entry file="file://$PROJECT_DIR$/heat_tubes_mfnet_pytorch.py" />
     <entry file="file://$PROJECT_DIR$/heat_tubes_Keras.py" />
     <entry file="file://$PROJECT_DIR$/LICENSE" />
-    <entry file="file://$PROJECT_DIR$/net/mfnet_3d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frames.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/1984554075/2109671036/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1073,16 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-          <folding>
-            <element signature="e#344#359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/imgs/79/focusmap_000.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1106,28 +581,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.sh">
+    <entry file="file://$PROJECT_DIR$/net/mfnet_3d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="460">
+          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_feature_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#344#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/i3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6348">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/s3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
+        <state relative-caret-position="521">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#320#335#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="317">
-            <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <first_editor relative-caret-position="339">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           </first_editor>
           <second_editor />
         </state>

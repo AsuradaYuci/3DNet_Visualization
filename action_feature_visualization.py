@@ -47,7 +47,7 @@ class Visualization(object):
         return heatframe, focusframe
 
     @staticmethod
-    def gen_mask_img(origin_img,  heat_map, pred_top3, prob_top3, label):
+    def gen_mask_img(origin_img,  heat_map, pred_top3, prob_top3, label, classes_list):
         """
         a img will be divide into four parts, origin images, activation_map, heatmap, focusmap
         and add text into them
@@ -55,6 +55,7 @@ class Visualization(object):
         :return:
         """
         h, w, c = origin_img.shape
+        assert h >= 224 and w  >= 224
         x1 = int(round((w - 224) / 2.))
         y1 = int(round((h - 224) / 2.))
         cropped_img = origin_img[y1:(y1 + 224), x1:(x1 + 224), :]
@@ -63,7 +64,7 @@ class Visualization(object):
         #    focus_crop_img = focus_map[:,:,i] * focus_map[:, :, 3]
         #focus_crop_img = cv2.cvtColor(focus_map, cv2.COLOR_RGBA2RGB)
         #focus_map = np.resize(focus_crop_img, [224,224,3])
-        classes = [x.strip() for x in open('resources/classInd.txt')]
+        classes = [x.strip() for x in open(classes_list)]
         label_name = 'real label: ' + classes[label - 1]
         put_text(cropped_img, label_name, (0.1, 0.5))
         for i in range(3):
